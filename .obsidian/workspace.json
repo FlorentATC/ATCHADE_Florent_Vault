@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "fcc775e06a493a24",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc855e98aefef767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd2d4de6752d608",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "02_Ressources/Pasted image 20251223052225.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251223052225"
+            }
+          },
+          {
+            "id": "a96ae98d7bc458b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Documentation/README.md.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d45e00b1ff1fca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5fed36be2984ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bb58a1a8eeeb2f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "c992cb01f529f328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "9c0d2d79f1fe96f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b461bf0a5816981d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ba4213ed3f758ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ecbf69baff55c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tableau de bord.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Tableau de bord"
+            }
+          },
+          {
+            "id": "1194814d25936275",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tableau de bord.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Tableau de bord"
+            }
+          },
+          {
+            "id": "0e9f6236e5ff85a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "3ec0d1fe7e40df06",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "0ca8b7767eeafe66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tableau de bord.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Tableau de bord"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "a96ae98d7bc458b6",
+  "lastOpenFiles": [
+    "ATCHADE_Florent_Vault/README.md",
+    "ATCHADE_Florent_Vault",
+    "04_Documentation/99_Documentation.md",
+    "08_Ressources & Outils.md",
+    "Carte_Mentale_BienEtre.canvas",
+    "07_Bibliographie.md",
+    "04_Documentation/README.md.md",
+    "Sport & Bien-être/02_Physiologie.md",
+    "Excalidraw/Synthese.excalidraw.md",
+    "Excalidraw/08_Schema_Synthese.md",
+    "03_Presentation/Presentation.md.md",
+    "02_Templates/Test_Log.md",
+    "02_Templates/Nouveau_Log.md",
+    "01_Donnee/Test_Donnees_Externes.md",
+    "01_Donnee/05c_Scraping_R.md",
+    "00_Accueil/00_Sommaire.md",
+    "Sport & Bien-être/05_Analyse.md",
+    "Programme d'entrainement.md",
+    "02_Ressources/Pasted image 20251223110913.png",
+    "Sport & Bien-être/04_Hygiène_Vie.md",
+    "Sport & Bien-être/03_Psychologie.md",
+    "Bienvenue.md",
+    "Dataview_OMS.md",
+    "Donnee_OMS/O1_Donnee_OMS.md",
+    "Sport & Bien-être/01_Introduction.md",
+    "Donnee_OMS/02_Donnees_OMS.md",
+    "Donnee_OMS/00_donnee_OMS.md",
+    "02_Ressources/Pasted image 20251222104405.png",
+    "02_Ressources/Pasted image 20251223052225.png",
+    "02_Ressources/Pasted image 20251223053401.png",
+    "Donnee_OMS",
+    "05_Journal_de_Bord/Log_2025-12-10.md.md",
+    "Sport & Bien-être/06_Conclusion.md",
+    "02_Ressources/Pasted image 20251222105046.png",
+    "02_Ressources/Pasted image 20251222145459.png",
+    "00_Accueil",
+    "Excalidraw",
+    "02_Ressources/carte.jpg",
+    "05_Journal_de_Bord",
+    "02_Ressources/Pasted image 20251222104740.png",
+    "02_Ressources/Pasted image 20251222104544.png",
+    "02_Ressources/Pasted image 20251222105239.png",
+    "03_Presentation",
+    "01_Donnee",
+    "Sans titre.base",
+    "04_Documentation",
+    "02_Ressources"
+  ]
+}

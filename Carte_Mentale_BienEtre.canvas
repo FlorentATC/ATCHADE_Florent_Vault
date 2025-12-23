@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"3213f672b894b92e","type":"file","file":"Sport & Bien-être/02_Physiologie.md","x":-761,"y":-1191,"width":400,"height":400,"color":"4"},
+		{"id":"a25f090ac94ce571","type":"file","file":"Sport & Bien-être/03_Psychologie.md","x":400,"y":-1191,"width":400,"height":400,"color":"6"},
+		{"id":"985b57933cfe5951","type":"file","file":"Sport & Bien-être/01_Introduction.md","x":-160,"y":-760,"width":400,"height":400,"color":"#1d1b1b"},
+		{"id":"7cecece77290f740","type":"file","file":"Sport & Bien-être/04_Hygiène_Vie.md","x":-160,"y":680,"width":400,"height":400,"color":"#a99f2d"},
+		{"id":"0ab3529177571cc5","type":"file","file":"Sport & Bien-être/04_Hygiène_Vie.md","x":-160,"y":92,"width":400,"height":400,"color":"1"},
+		{"id":"7541f552651d3aff","type":"file","file":"02_Ressources/Pasted image 20251222104740.png","x":-1086,"y":-1697,"width":251,"height":377},
+		{"id":"bdf5787040060b48","type":"file","file":"02_Ressources/Pasted image 20251222104544.png","x":720,"y":-1720,"width":400,"height":400},
+		{"id":"b2dfcf8fc90d50d9","type":"file","file":"02_Ressources/carte.jpg","x":600,"y":120,"width":400,"height":343},
+		{"id":"c1247a4fbcdef45e","type":"file","file":"02_Ressources/Pasted image 20251222105046.png","x":-1360,"y":492,"width":400,"height":400},
+		{"id":"a88c5881b3de8613","type":"file","file":"02_Ressources/Pasted image 20251222104405.png","x":-1490,"y":-760,"width":260,"height":400},
+		{"id":"35d71a771b21c38a","type":"file","file":"Sport & Bien-être/06_Conclusion.md","x":-960,"y":1080,"width":400,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"fc4ef9e6f0672e84","fromNode":"985b57933cfe5951","fromSide":"top","toNode":"3213f672b894b92e","toSide":"right"},
+		{"id":"c253bf287c4f88f3","fromNode":"985b57933cfe5951","fromSide":"top","toNode":"a25f090ac94ce571","toSide":"left"},
+		{"id":"186c051e3a58ae0f","fromNode":"985b57933cfe5951","fromSide":"bottom","toNode":"0ab3529177571cc5","toSide":"top"},
+		{"id":"c10d7a42c664e319","fromNode":"3213f672b894b92e","fromSide":"right","toNode":"a25f090ac94ce571","toSide":"left"},
+		{"id":"67e3c8dab919ce78","fromNode":"a25f090ac94ce571","fromSide":"bottom","toNode":"0ab3529177571cc5","toSide":"right"},
+		{"id":"818e2e282e187aea","fromNode":"3213f672b894b92e","fromSide":"bottom","toNode":"0ab3529177571cc5","toSide":"left"},
+		{"id":"71bc36b414959231","fromNode":"0ab3529177571cc5","fromSide":"bottom","toNode":"7cecece77290f740","toSide":"top"},
+		{"id":"f05a61b328a4a12d","fromNode":"3213f672b894b92e","fromSide":"bottom","toNode":"7cecece77290f740","toSide":"left"},
+		{"id":"dae1ca9c73961f23","fromNode":"a25f090ac94ce571","fromSide":"bottom","toNode":"7cecece77290f740","toSide":"right"},
+		{"id":"b699b04a0881921c","fromNode":"985b57933cfe5951","fromSide":"right","toNode":"7cecece77290f740","toSide":"bottom"},
+		{"id":"643bb310dfe6f6c5","fromNode":"0ab3529177571cc5","fromSide":"left","toNode":"c1247a4fbcdef45e","toSide":"top"},
+		{"id":"02bcda6be2ca8fb2","fromNode":"3213f672b894b92e","fromSide":"left","toNode":"7541f552651d3aff","toSide":"bottom"},
+		{"id":"d0cd2c8f794999f6","fromNode":"a25f090ac94ce571","fromSide":"right","toNode":"bdf5787040060b48","toSide":"bottom"},
+		{"id":"a30ed99a45eb4e50","fromNode":"a88c5881b3de8613","fromSide":"right","toNode":"985b57933cfe5951","toSide":"left"},
+		{"id":"55bbe2a538093ee3","fromNode":"7cecece77290f740","fromSide":"right","toNode":"b2dfcf8fc90d50d9","toSide":"bottom"},
+		{"id":"bdedd1030419e132","fromNode":"0ab3529177571cc5","fromSide":"right","toNode":"b2dfcf8fc90d50d9","toSide":"left"},
+		{"id":"c874866a98f92b6c","fromNode":"985b57933cfe5951","fromSide":"right","toNode":"b2dfcf8fc90d50d9","toSide":"top"},
+		{"id":"b0ae15d52b1d22de","fromNode":"a25f090ac94ce571","fromSide":"right","toNode":"b2dfcf8fc90d50d9","toSide":"right"},
+		{"id":"9580a15052226ff0","fromNode":"3213f672b894b92e","fromSide":"bottom","toNode":"b2dfcf8fc90d50d9","toSide":"left"},
+		{"id":"b83ee25f9875e2bd","fromNode":"7cecece77290f740","fromSide":"left","toNode":"35d71a771b21c38a","toSide":"right"}
+	]
+}

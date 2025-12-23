@@ -107,23 +107,8 @@ L'intégration du scraping R répond à une logique de **Data-Informed Design**.
 1. **OMS GHO OData API** : [Accès technique aux bases de données mondiales](https://www.who.int/data/gho/info/gho-odata-api)
     
 2. **Aide-mémoire OMS** : [Directives officielles sur l'activité physique](https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity)
-    
-3. **Archives Wikipedia Sport** : [Tableau des médailles JO 2024](https://fr.wikipedia.org/wiki/Tableau_des_m%C3%A9dailles_des_Jeux_olympiques_d%27%C3%A9t%C3%A9_de_2024)
 
 
-## 6. Stratégie de Versioning & Publication (Git)
-
-Afin de garantir la pérennité et l'accessibilité du système (critère *stand-alone*), ce Vault est versionné via **Git** et hébergé publiquement.
-
-### 🛠️ Workflow de déploiement
-Le processus de publication suit le cycle de vie standard du développement logiciel :
-1.  **Local :** Les modifications des notes et des scripts R sont enregistrées localement (*Commit*) pour créer des points de sauvegarde précis.
-2.  **Distant :** Le projet est poussé (*Push*) vers un dépôt distant sécurisé, assurant la redondance des données.
-3.  **Accessibilité :** Le code source complet (fichiers Markdown + Assets + Scripts) est disponible en open-source.
-
-> [!SUCCESS] Accès au Dépôt
-> Le projet complet est consultable et clonable à l'adresse suivante :
-> 👉 **[Lien vers mon dépôt GitHub](https://github.com/VOTRE_PSEUDO/Atchade_Florent_Vault)**
     
 
 ---
